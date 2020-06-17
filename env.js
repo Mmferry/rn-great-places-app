@@ -1,13 +1,9 @@
-// const vars = {
-//   googleApiKey: "AIzaSyAQ--R0GjWWnzOndGT10easck1xdgyjJRo",
-// };
-
 const variables = {
   development: {
-    googleApiKey: "AIzaSyAQ--R0GjWWnzOndGT10easck1xdgyjJRo",
+    googleApiKey: "dev key",
   },
   production: {
-    googleApiKey: "AIzaSyAQ--R0GjWWnzOndGT10easck1xdgyjJRo",
+    googleApiKey: "Prouction key",
   },
 };
 
